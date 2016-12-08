@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=3V3 Pin=SWD1-1
+Removed Pin From Net: NetName=GND Pin=SWD1-4
+Removed Pin From Net: NetName=RESET Pin=SWD1-5
+Removed Member From Class: ClassName=2016ºËÐÄ°å v3.0 Member=SWD1

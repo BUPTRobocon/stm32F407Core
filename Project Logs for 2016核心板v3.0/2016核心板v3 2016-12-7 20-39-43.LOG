@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=C9 Old Footprint=CAP-TAN-3528/CAPB New Footprint=CAP-TAN-6032/CAPC
+Added Component: Designator=C32(CAP-MLCC-0603)
+Added Pin To Net: NetName=GND Pin=C32-1
+Added Pin To Net: NetName=5V Pin=C32-2
+Added Member To Class: ClassName=2016ºËÐÄ°å v3.0 Member=Component C32 CAP

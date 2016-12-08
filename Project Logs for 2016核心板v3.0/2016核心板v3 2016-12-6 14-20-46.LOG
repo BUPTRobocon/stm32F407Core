@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=PF1 Pin=LEFT-9
+Removed Pin From Net: NetName=PF2 Pin=LEFT-10
+Removed Pin From Net: NetName=PF3 Pin=LEFT-11
+Removed Pin From Net: NetName=PF4 Pin=LEFT-12
+Added Pin To Net: NetName=PF2 Pin=LEFT-9
+Added Pin To Net: NetName=PF1 Pin=LEFT-10
+Added Pin To Net: NetName=PF4 Pin=LEFT-11
+Added Pin To Net: NetName=PF3 Pin=LEFT-12

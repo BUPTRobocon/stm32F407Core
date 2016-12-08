@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=PA13 Pin=R1-1
+Removed Pin From Net: NetName=GND Pin=R2-2
+Removed Pin From Net: NetName=PB3 Pin=R3-1
+Removed Pin From Net: NetName=3V3 Pin=R3-2
+Removed Pin From Net: NetName=PA14 Pin=R4-1
+Removed Pin From Net: NetName=3V3 Pin=R4-2
+Removed Pin From Net: NetName=PA13 Pin=R4-3
+Removed Pin From Net: NetName=3V3 Pin=R4-4
+Removed Pin From Net: NetName=PA15 Pin=R4-5
+Removed Pin From Net: NetName=3V3 Pin=R4-6
+Removed Pin From Net: NetName=PB4 Pin=R4-7
+Removed Pin From Net: NetName=3V3 Pin=R4-8
+Removed Pin From Net: NetName=PA13 Pin=SWD1-2
+Removed Pin From Net: NetName=PA14 Pin=SWD1-3
+Change Component DesignItemId : Designator=R1 Old DesignItemId=Res1_1 New DesignItemId=Res1
+Change Component DesignItemId : Designator=R2 Old DesignItemId=Res1_1 New DesignItemId=RES-ARR4
+Change Component Footprint: Designator=R2 Old Footprint=RES-0603 New Footprint=RES-ARR4
+Change Component Comment : Designator=R1 Old Comment=Res1 New Comment=10K
+Change Component Comment : Designator=R2 Old Comment=Res1 New Comment=10K
+Change Component Designator: OldDesignator=DOWN1 NewDesignator=DOWN
+Change Component Designator: OldDesignator=LEFT1 NewDesignator=LEFT
+Change Component Designator: OldDesignator=R5 NewDesignator=R3
+Change Component Designator: OldDesignator=R6 NewDesignator=R4
+Change Component Designator: OldDesignator=R7 NewDesignator=R5
+Change Component Designator: OldDesignator=R11 NewDesignator=R6
+Change Component Designator: OldDesignator=R12 NewDesignator=R7
+Change Component Designator: OldDesignator=RIGHT1 NewDesignator=RIGHT
+Change Component Designator: OldDesignator=UP1 NewDesignator=P?
+Change Component Library : Designator=R1 Old Library=K60-mainboard-v3.1.SCHLIB New Library=Libraries_2014_0215.SchLib
+Added Pin To Net: NetName=PB3 Pin=R1-1
+Added Pin To Net: NetName=3V3 Pin=R2-2
+Added Pin To Net: NetName=PA13 Pin=R2-3
+Added Pin To Net: NetName=3V3 Pin=R2-4
+Added Pin To Net: NetName=PA15 Pin=R2-5
+Added Pin To Net: NetName=3V3 Pin=R2-6
+Added Pin To Net: NetName=PB4 Pin=R2-7
+Added Pin To Net: NetName=3V3 Pin=R2-8
+Added Pin To Net: NetName=RESET Pin=SWD1-5
+Change Net Name : Old Net Name=NetR7_1 New Net Name=NetR5_1
+Added Room: Name=2016ºËÐÄ°å v3.0

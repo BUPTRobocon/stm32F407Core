@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=PC3 Pin=LEFT2-1
+Removed Pin From Net: NetName=3V3 Pin=LEFT2-2
+Removed Pin From Net: NetName=PA0 Pin=LEFT2-3
+Removed Pin From Net: NetName=PA1 Pin=LEFT2-4
+Removed Pin From Net: NetName=PA2 Pin=LEFT2-5
+Removed Pin From Net: NetName=5V Pin=LEFT2-6
+Removed Pin From Net: NetName=RESET Pin=LEFT-19
+Removed Pin From Net: NetName=PC0 Pin=LEFT-20
+Removed Pin From Net: NetName=PC1 Pin=LEFT-21
+Removed Pin From Net: NetName=PC2 Pin=LEFT-22
+Change Component DesignItemId : Designator=LEFT2 Old DesignItemId=Header 3X2 New DesignItemId=Header 5X2
+Change Component DesignItemId : Designator=LEFT Old DesignItemId=Header 11X2 New DesignItemId=Header 9X2
+Change Component Footprint: Designator=LEFT2 Old Footprint=HDR2X3 New Footprint=HDR2X5
+Change Component Footprint: Designator=LEFT Old Footprint=HDR2X11 New Footprint=HDR2X9
+Change Component Comment : Designator=LEFT2 Old Comment=Header 3X2 New Comment=Header 5X2
+Change Component Comment : Designator=LEFT Old Comment=Header 11X2 New Comment=Header 9X2
+Added Pin To Net: NetName=RESET Pin=LEFT2-1
+Added Pin To Net: NetName=PC0 Pin=LEFT2-2
+Added Pin To Net: NetName=PC1 Pin=LEFT2-3
+Added Pin To Net: NetName=PC2 Pin=LEFT2-4
+Added Pin To Net: NetName=PC3 Pin=LEFT2-5
+Added Pin To Net: NetName=3V3 Pin=LEFT2-6
+Added Pin To Net: NetName=PA0 Pin=LEFT2-7
+Added Pin To Net: NetName=PA1 Pin=LEFT2-8
+Added Pin To Net: NetName=PA2 Pin=LEFT2-9
+Added Pin To Net: NetName=5V Pin=LEFT2-10

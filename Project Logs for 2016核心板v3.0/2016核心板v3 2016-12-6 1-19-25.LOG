@@ -1,0 +1,45 @@
+Removed Pin From Net: NetName=PB3 Pin=R1-1
+Removed Pin From Net: NetName=3V3 Pin=R2-2
+Removed Pin From Net: NetName=PA13 Pin=R2-3
+Removed Pin From Net: NetName=3V3 Pin=R2-4
+Removed Pin From Net: NetName=PA15 Pin=R2-5
+Removed Pin From Net: NetName=3V3 Pin=R2-6
+Removed Pin From Net: NetName=PB4 Pin=R2-7
+Removed Pin From Net: NetName=3V3 Pin=R2-8
+Removed Pin From Net: NetName=RESET Pin=SWD1-5
+Change Component DesignItemId : Designator=R1 Old DesignItemId=Res1 New DesignItemId=Res1_1
+Change Component DesignItemId : Designator=R2 Old DesignItemId=RES-ARR4 New DesignItemId=Res1_1
+Change Component Footprint: Designator=R2 Old Footprint=RES-ARR4 New Footprint=RES-0603
+Change Component Comment : Designator=R1 Old Comment=10K New Comment=Res1
+Change Component Comment : Designator=R2 Old Comment=10K New Comment=Res1
+Change Component Designator: OldDesignator=DOWN NewDesignator=DOWN1
+Change Component Designator: OldDesignator=LEFT NewDesignator=LEFT1
+Change Component Designator: OldDesignator=R3 NewDesignator=R5
+Change Component Designator: OldDesignator=R4 NewDesignator=R6
+Change Component Designator: OldDesignator=R5 NewDesignator=R7
+Change Component Designator: OldDesignator=R6 NewDesignator=R11
+Change Component Designator: OldDesignator=R7 NewDesignator=R12
+Change Component Designator: OldDesignator=RIGHT NewDesignator=RIGHT1
+Change Component Designator: OldDesignator=UP NewDesignator=UP1
+Change Component Library : Designator=R1 Old Library=Libraries_2014_0215.SchLib New Library=K60-mainboard-v3.1.SCHLIB
+Added Component: Designator=R3(Res-0603)
+Added Component: Designator=R4(RES-ARR4)
+Added Pin To Net: NetName=PA13 Pin=R1-1
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=PB3 Pin=R3-1
+Added Pin To Net: NetName=3V3 Pin=R3-2
+Added Pin To Net: NetName=PA14 Pin=R4-1
+Added Pin To Net: NetName=3V3 Pin=R4-2
+Added Pin To Net: NetName=PA13 Pin=R4-3
+Added Pin To Net: NetName=3V3 Pin=R4-4
+Added Pin To Net: NetName=PA15 Pin=R4-5
+Added Pin To Net: NetName=3V3 Pin=R4-6
+Added Pin To Net: NetName=PB4 Pin=R4-7
+Added Pin To Net: NetName=3V3 Pin=R4-8
+Added Pin To Net: NetName=PA13 Pin=SWD1-2
+Added Pin To Net: NetName=PA14 Pin=SWD1-3
+Change Net Name : Old Net Name=NetR5_1 New Net Name=NetR7_1
+Added Pin To Net: NetName=NRST Pin=SWD1-5
+Added Net: Name=NRST
+Added Member To Class: ClassName=2016ºËÐÄ°å v3.0 Member=Component R11 RES
+Added Member To Class: ClassName=2016ºËÐÄ°å v3.0 Member=Component R12 RES

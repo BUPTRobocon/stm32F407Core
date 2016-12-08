@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=PG14 Pin=P?-11
+Removed Pin From Net: NetName=PG15 Pin=P?-12
+Removed Pin From Net: NetName=PG12 Pin=P?-13
+Removed Pin From Net: NetName=PG13 Pin=P?-14
+Removed Pin From Net: NetName=PG10 Pin=P?-15
+Removed Pin From Net: NetName=PG11 Pin=P?-16
+Added Pin To Net: NetName=PG15 Pin=P?-11
+Added Pin To Net: NetName=PG14 Pin=P?-12
+Added Pin To Net: NetName=PG13 Pin=P?-13
+Added Pin To Net: NetName=PG12 Pin=P?-14
+Added Pin To Net: NetName=PG11 Pin=P?-15
+Added Pin To Net: NetName=PG10 Pin=P?-16

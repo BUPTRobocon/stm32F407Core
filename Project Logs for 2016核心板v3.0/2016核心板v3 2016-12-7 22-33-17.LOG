@@ -1,0 +1,4 @@
+Added Component: Designator=TEST(PwrDock)
+Added Pin To Net: NetName=3V3 Pin=TEST-1
+Added Pin To Net: NetName=GND Pin=TEST-2
+Added Member To Class: ClassName=2016ºËÐÄ°å v3.0 Member=Component TEST Header 2
