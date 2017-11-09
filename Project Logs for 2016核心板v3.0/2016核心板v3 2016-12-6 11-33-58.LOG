@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=PF14 Pin=DOWN-15
-Removed Pin From Net: NetName=PF13 Pin=DOWN-16
-Added Pin To Net: NetName=PF13 Pin=DOWN-15
-Added Pin To Net: NetName=PF14 Pin=DOWN-16

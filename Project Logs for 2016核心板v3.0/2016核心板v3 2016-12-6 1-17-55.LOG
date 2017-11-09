@@ -1,9 +1,0 @@
-Added Component: Designator=L1(0805R)
-Added Component: Designator=SWD1(HDR1X5)
-Added Pin To Net: NetName=NetL1_1 Pin=L1-1
-Added Pin To Net: NetName=3V3 Pin=L1-2
-Added Pin To Net: NetName=3V3 Pin=SWD1-1
-Added Pin To Net: NetName=GND Pin=SWD1-4
-Added Pin To Net: NetName=RESET Pin=SWD1-5
-Added Member To Class: ClassName=2016ºËÐÄ°å v3.0 Member=Component L1 ´ÅÖé
-Added Member To Class: ClassName=2016ºËÐÄ°å v3.0 Member=Component SWD1 Header 5

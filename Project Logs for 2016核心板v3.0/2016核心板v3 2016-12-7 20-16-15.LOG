@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=PE3 Pin=LEFT-2
-Removed Pin From Net: NetName=PE2 Pin=LEFT-3
-Removed Pin From Net: NetName=PE5 Pin=LEFT-4
-Removed Pin From Net: NetName=PE4 Pin=LEFT-6
-Added Pin To Net: NetName=PE2 Pin=LEFT-2
-Added Pin To Net: NetName=PE3 Pin=LEFT-3
-Added Pin To Net: NetName=PE4 Pin=LEFT-4
-Added Pin To Net: NetName=PE5 Pin=LEFT-6

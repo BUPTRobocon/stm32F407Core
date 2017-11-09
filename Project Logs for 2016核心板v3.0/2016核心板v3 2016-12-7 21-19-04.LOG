@@ -1,9 +1,0 @@
-Added Component: Designator=D3(LED-1206)
-Added Component: Designator=R20(RES-0603)
-Added Pin To Net: NetName=3V3 Pin=D3-1
-Added Pin To Net: NetName=PC0 Pin=R20-1
-Added Pin To Net: NetName=NetD3_2 Pin=D3-2
-Added Pin To Net: NetName=NetD3_2 Pin=R20-2
-Added Net: Name=NetD3_2
-Added Member To Class: ClassName=2016ºËÐÄ°å v3.0 Member=Component D3 LED
-Added Member To Class: ClassName=2016ºËÐÄ°å v3.0 Member=Component R20 RES
